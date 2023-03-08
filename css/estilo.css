@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
 @font-face {
     font-family: 'FonteLogo';
-    src: url("../_fonts/bubblegum-sans-regular.otf");
+    src: url("../fonts/bubblegum-sans-regular.otf");
 }
 
 body{
@@ -122,7 +122,7 @@ nav#menu ul {
     left: 500px;}
 
 nav#menu li{
-    display: inline-block;
+    display: inline;
     background-color: #dddddd;
     padding: 10px;
     margin: 2px;
